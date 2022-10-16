@@ -1,0 +1,3 @@
+Hello..
+
+As confirmation emails to login into Credly  account were not coming through, I couldn't collect any of the badges.
